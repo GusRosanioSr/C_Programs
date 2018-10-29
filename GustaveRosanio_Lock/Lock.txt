@@ -1,0 +1,22 @@
+GUSTAVE ROSANIO
+PROFESSOR KEVIN LUX
+PRINCIPLES OF DATA STRUCTURES
+SECTION 1
+ASSIGNMENT 1: LOCK CLASS
+
+email: rosaniog6@students.rowan.edu
+phone: 856-425-8531
+
+The problem was to create a lock class. The lock was to have number 0 - 39 avalible on the lock.
+The lock was to have a 3 number combination.
+The first number was to be reached by turning the lock clockwise at least one revolution and stop when x reaches the top.
+The second number was to be reached by turning the lock counter clockwise at least one revolution, passing y the first time and stoping when it reaches the top the second time.
+The third number is to be gone to rigth away, no full rotations required.
+The lock may them be opened.
+Class must have a constructor with default arguments.
+Must have a memeber function that alters the locks combination ot three new numbers.
+Must have a member function that turn the knob in a given direction until the specified number is displayed.
+Must have a member funciton that closes the lock.
+Must have a member funciton that inquire about the status of the lock.
+Must have a member function that tells you what number is currently at the top of the lock. 
+

@@ -1,0 +1,9 @@
+﻿  DynamicArray.cpp
+c:\users\gus rosanio\desktop\c++ files\gustaverosanio_dynamicarray\dynamicarray.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\gus rosanio\desktop\c++ files\gustaverosanio_dynamicarray\dynamicarray.cpp(62): warning C4018: '>=': signed/unsigned mismatch
+c:\users\gus rosanio\desktop\c++ files\gustaverosanio_dynamicarray\dynamicarray.cpp(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\gus rosanio\desktop\c++ files\gustaverosanio_dynamicarray\dynamicarray.cpp(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\gus rosanio\desktop\c++ files\gustaverosanio_dynamicarray\dynamicarray.cpp(79): warning C4018: '>': signed/unsigned mismatch
+c:\users\gus rosanio\desktop\c++ files\gustaverosanio_dynamicarray\dynamicarray.cpp(93): warning C4018: '<': signed/unsigned mismatch
+c:\users\gus rosanio\desktop\c++ files\gustaverosanio_dynamicarray\dynamicarray.cpp(97): warning C4018: '<': signed/unsigned mismatch
+  GustaveRosanio_DynamicArray.vcxproj -> C:\Users\Gus Rosanio\Desktop\C++ files\GustaveRosanio_DynamicArray\Debug\GustaveRosanio_DynamicArray.exe
